@@ -114,7 +114,7 @@ La loi de Gibrat (croissance proportionnelle) prédit que le **taux de croissanc
 ### Installation
 
 ```bash
-git clone https://github.com/amdvii/UrbanFlows-FR.git
+git clone https://github.com/amdvii/UrbanFlowsFR.git
 cd UrbanFlows-FR
 pip install -r requirements.txt
 ```
